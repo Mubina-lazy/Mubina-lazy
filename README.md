@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mubina-lazy
+- 👋 Hi, I’m Mubina
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate with u
